@@ -4,3 +4,10 @@ Disallow:/agb.html
 Disallow: /impressum.html
 Disallow: /datenschutz.html
 Disallow: /widerruf.html
+
+
+# this robots.txt is generated via https://www.seosite.eu 
+Allow: /
+Useragent: *
+
+

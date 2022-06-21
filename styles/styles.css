@@ -1041,3 +1041,27 @@ section {
     height: 100vh;
     flex-direction: column;
 }
+
+.law {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    padding-left: 16px;
+}
+
+.paddingClass {
+    padding: 16px;
+}
+
+.textCenter {
+    text-align: center !important;
+}
+
+.contentUnderDev {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    padding: 128px;
+}
