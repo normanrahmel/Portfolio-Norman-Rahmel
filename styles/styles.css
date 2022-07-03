@@ -304,6 +304,8 @@ section {
 
 .sectionSkillsImg {
     margin: 16px;
+    flex-direction: row;
+    display: flex;
 }
 
 .skillsImg {
@@ -312,11 +314,20 @@ section {
     margin: 16px;
 }
 
+.singelSkill {
+    padding-right: 8px;
+    padding-left: 8px;
+    text-align: center;
+}
+
 @media(max-width:410px) {
     .sectionSkillsImg {
         flex-direction: column;
         display: flex;
         align-items: center;
+    }
+    .singelSkill {
+        margin-bottom: 32px;
     }
 }
 
