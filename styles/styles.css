@@ -312,6 +312,14 @@ section {
     margin: 16px;
 }
 
+@media(max-width:410px) {
+    .sectionSkillsImg {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
+}
+
 .about-stats {
     padding-bottom: 4rem;
     display: grid;
