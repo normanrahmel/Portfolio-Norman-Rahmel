@@ -320,7 +320,7 @@ section {
     text-align: center;
 }
 
-@media(max-width:410px) {
+@media(max-width:350px) {
     .sectionSkillsImg {
         flex-direction: column;
         display: flex;
