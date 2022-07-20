@@ -2,7 +2,7 @@
 
 ########### CONFIG ###############
 
-$recipient = 'rahmelnorman@gmail.com';
+$recipient = 'application.request@norman-rahmel.com';
 $redirect = 'https://norman-rahmel.developerakademie.net/nrPortfolio/succes.html';
 
 ########### CONFIG END ###########
